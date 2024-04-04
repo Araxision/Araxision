@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Araxision
+- 👋 Hi, I’m Arav De
 - 👀 I’m interested in Game Devoloping, Software Devolopment.
-- 🌱 I’m currently learning Python
+- 🌱 I know Java, Python, C++ and am currently learning SQL, HTML and REACT.
 - 💞️ I’m looking to collaborate on Anything! Just hit me up I would love to learn and implement my skills.
 - 📫 How to reach me dea@berea.edu and aravde2004@gmail.com
 <!---
